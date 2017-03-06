@@ -14,6 +14,6 @@ Explain how to build the project
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for information on contributing to this project.
 
-# License
+## License
 
 This project is licensed with the [MIT license](LICENSE).
