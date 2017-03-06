@@ -2,7 +2,7 @@
 
 The new-repo project is a default template for .NET Foundation projects. It's also probably a fine start for other .NET projects (have at it, but change the license). It contains the correct license, a decent README, and initial project structure (including a standard .gitignore for the Visual Studio family of products).
 
-You can learn more about the project from [Documents](Documents).
+You can learn more about the project from [Documentation](Documentation).
 
 ## Using New Repo
 
@@ -26,7 +26,7 @@ This project is licensed with the [MIT license](LICENSE).
 
 New Repo is a [.NET Foundation project](https://dotnetfoundation.org/projects).
 
-## Related Project
+## Related Projects
 
 You should take a look at these related projects:
 
