@@ -6,6 +6,8 @@ The new-repo project is a default template for .NET Foundation projects. It's al
 
 You can simply `git clone` this project to get started. It is recommended that you don't preserve history of the project (it isn't generally meaningful) for your repo, but make a copy and `git init` your project from source.
 
+Consult [CHECKLIST.md] for helpful suggestions on preparing your repo to go public.
+
 ## Building
 
 You don't "build" New Repo, however, this will be meaningful for many other projects.
